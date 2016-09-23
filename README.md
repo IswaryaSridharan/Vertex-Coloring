@@ -1,5 +1,5 @@
 # Vertex-Coloring
-Implementing DSATUR algorithm with different data structures
+Implementing DSATUR algorithm with different data structures including max-heap, red-black tree. Compared the running time and minimum number of colors used for large graphs with varying edge densities.
 
 To compile the code run:
 javac TCSS543.java
